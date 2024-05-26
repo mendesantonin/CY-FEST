@@ -1,0 +1,28 @@
+Description du Projet
+Le projet visait à développer un logiciel en langage C pour gérer les aspects essentiels d'un festival, tels que la création et la modification de salles, l'assignation de concerts à ces salles, la réservation de places par les festivaliers, etc. L'objectif était de fournir un outil complet et convivial pour les organisateurs de festivals afin de faciliter la planification et la gestion de leurs événements.
+
+Organisation du Projet et Méthodologie
+En tant que développeur unique sur le projet, j'ai adopté une approche méthodique pour mener à bien le développement du logiciel. Le processus de développement était structuré comme suit :
+
+Analyse des Besoins : J'ai commencé par étudier attentivement le cahier des charges afin de bien comprendre les fonctionnalités requises pour le système de gestion de festival.
+
+Conception : Ensuite, j'ai élaboré des diagrammes UML pour modéliser la structure du système, y compris les différentes classes et leurs relations, ainsi que les flux de données entre les différentes parties du logiciel.
+
+Implémentation : Une fois la conception finalisée, j'ai procédé à l'implémentation du système en utilisant le langage C. J'ai écrit le code source en suivant les principes de programmation modulaire et en me concentrant sur la réutilisabilité et la maintenabilité du code.
+
+Tests et Débogage : Après l'implémentation, j'ai effectué des tests approfondis pour vérifier le bon fonctionnement de chaque fonctionnalité du système. J'ai également procédé au débogage pour corriger les erreurs et les bogues éventuels.
+
+Documentation : En parallèle du développement, j'ai rédigé la documentation technique du projet, y compris les commentaires dans le code source, ainsi qu'un manuel d'utilisation pour les utilisateurs du système.
+
+Problèmes Rencontrés et Solutions Apportées
+Pendant le développement du projet, j'ai rencontré plusieurs défis, notamment :
+
+Gestion des Salles : Concevoir un système flexible pour créer et modifier les salles de manière dynamique a été l'un de mes principaux défis. J'ai résolu ce problème en utilisant des structures de données appropriées pour représenter les salles et en fournissant des interfaces conviviales pour les opérations de gestion des salles.
+
+Réservation de Places : La gestion des réservations de places tout en tenant compte des différentes catégories de sièges et de la disponibilité des salles a également été un défi. J'ai abordé ce problème en développant un algorithme efficace pour gérer les réservations de manière optimale, tout en garantissant une expérience utilisateur fluide.
+
+Résultats
+Au terme du projet, j'ai réussi à développer un système de gestion de festival fonctionnel et robuste, qui répond aux besoins spécifiés dans le cahier des charges. Le logiciel offre une interface conviviale pour les utilisateurs, permettant une gestion efficace et intuitive des différents aspects d'un festival.
+
+Conclusion
+En conclusion, ce projet m'a permis de mettre en pratique mes compétences en développement logiciel et en gestion de projet. Malgré les défis rencontrés en travaillant seul, j'ai réussi à livrer un produit de qualité qui répond aux attentes du cahier des charges.
